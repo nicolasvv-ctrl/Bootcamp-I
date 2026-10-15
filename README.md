@@ -4,7 +4,6 @@
 
 🌐 **Site (GitHub Pages):** https://nicolasvv-ctrl.github.io/Bootcamp-I/
 💼 **LinkedIn:** [linkedin.com/in/nicolas-veiga-de-vasconcelos-0171353b3](https://linkedin.com/in/nicolas-veiga-de-vasconcelos-0171353b3)
-🎥 **Apresentação (YouTube):** _adicionar link do vídeo de 5 min_
 
 ---
 
